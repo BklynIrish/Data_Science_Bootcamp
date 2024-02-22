@@ -1,0 +1,6 @@
+These repositories were previously just single repositories.  I had to change my main to my master to Create a Master Repo called Data_Science_Bootcamp and in the process, which is beyond the scope of this project, I had to remove
+several files using a gitignore file and remove the hidden file .git from each one to move it from a stand alone repository to a sub-directory or sub-repo.  I just stated with 4 of 23 so 28 more to go, and this was not easy,
+, creating these files, out of the scope thus far of of the program, but the movement of them into a masster repo so I can have Coding Dojo Files under a different masster files and one can differentiate between those
+repos created in this bootcamp vs. the other.  I have a lot more work to do to complete this.  on some downtime, I suppose.  you will see as I haven't erased all but one of them from being listed as repos standing alone to tpos 
+within a master repos.  THis was cool, but time consuming and using the terminal and VS code extensive to remove the .git files and create the gitignore file and finally when ready give them a message and comfirm
+the creation of a new location, when all the others are transferred and moved, you will only find them under the master repository "Data_Science_Bootcammp"
